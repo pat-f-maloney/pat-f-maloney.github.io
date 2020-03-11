@@ -1,0 +1,67 @@
+@import url("https://use.typekit.net/lmu6npt.css");
+
+
+body {
+    background-color: #e6ddde;
+    margin-left: 5%;
+}
+
+#logo {
+    margin-bottom: 30px;
+    margin-top: 50px;
+    max-width: 75%;
+    max-height: 75%;
+    min-width: 40%;
+    min-height: 40%;
+}
+
+h2 {
+    color: #443235;
+    font-family: bree, sans-serif;
+    font-weight: 300;
+    font-size: 2em
+}
+
+h3 {
+    color: #443235;
+    font-weight:500;
+    font-family: yrsa, sans-serif;
+    margin-bottom: 0px
+}
+
+p {
+    color: #443235;
+    font-family: yrsa, sans-serif;
+    font-size: 1.125em;
+    margin-top: 0px;
+}
+
+ul {
+    color: #443235;
+    font-size: .975em;
+    font-family: yrsa, sans-serif;
+    line-height: 1.25em;
+    padding-left: 5%;
+    padding-bottom: 5%
+}
+
+
+.container {
+    display: flex;
+}
+
+#education {
+    width: 42.5%;
+    border: 1px solid #443235;
+    margin-right: 5%;
+    padding: 20px;
+  
+
+}
+
+#experience {
+    width: 42.5%;
+    border: 1px solid #443235;
+    padding: 20px;
+ 
+}
